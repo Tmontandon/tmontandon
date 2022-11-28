@@ -11,6 +11,11 @@ I enjoy outdoor activities 🏂, finding solutions to problems 🤔, as well as 
 > *Shape Up: Stop Running in Circles and Ship Work that Matters* </br>
 Ryan Singer - Basecamp
 
+#### ***Contact Me***
+✉️ : tt.montandon@gmail.com 
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-tmontandon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tmontandon/)
+
 ### ***Stats***
 <br>
 <div align="center">
@@ -37,3 +42,5 @@ Ryan Singer - Basecamp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="Figma Logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="Slack Logo"  />
 </div>
+
+
