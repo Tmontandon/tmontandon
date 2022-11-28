@@ -3,7 +3,12 @@
 
 ### ***About Me***
 
-Im **Talor Montandon**, and Im looking forward to getting into software development. I recently finished a 13 week course among the top of my class and Im excited to use my new skills. I enjoy outdoor activities 🏂, finding solutions to problems 🤔, as well as learning and growing to become my best self 🎉.
+Im **Talor Montandon**, and Im looking forward to getting into software development. I recently finished a 13 week course among the top of my class and Im excited to use my new skills. I enjoy outdoor activities 🏂, finding solutions to problems 🤔, as well as learning and growing to become my best self 🌱.
+
+#### ***Currently Reading 📕***
+
+*Shape Up: Stop Running in Circles and Ship Work that Matters*
+Ryan Singer - Basecamp
 
 ### ***Stats***
 
