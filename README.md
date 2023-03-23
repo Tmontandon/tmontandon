@@ -8,8 +8,8 @@ Im **Talor Montandon**, and Im looking forward to getting into software developm
 I enjoy outdoor activities 🏂, finding solutions to problems 🤔, as well as learning and growing to become my best self 🌱.
 
 #### ***Currently Reading 📕***
-> *Shape Up: Stop Running in Circles and Ship Work that Matters* </br>
-Ryan Singer - Basecamp
+> *CompTIA Network+ Certification Exam Guide* </br>
+Mike Meyers
 
 #### ***Contact Me***
 ✉️ : tt.montandon@gmail.com 
