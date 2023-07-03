@@ -3,20 +3,21 @@
 
 ### ***About Me***
 
-Im **Talor Montandon**, and Im looking forward to getting into software development. I recently finished a 13 week course among the top of my class and Im excited to use my new skills. 
+Im **Talor Montandon**,  I enjoy outdoor activities 🏂, finding solutions to problems 🤔, and growing to become my best self 🌱.
 
-I enjoy outdoor activities 🏂, finding solutions to problems 🤔, as well as learning and growing to become my best self 🌱.
+I have a little over a year of experience in software development, with much of my knowledge based around web development.
 
 #### ***Currently Reading 📕***
 > *CompTIA Network+ Certification Exam Guide* </br>
 Mike Meyers
 
+
 #### ***Contact Me***
-✉️ : tt.montandon@gmail.com 
-<br>
+You can contact me on LinkedIn but im not huge in social media so I might not respond right away!
 [![Linkedin Badge](https://img.shields.io/badge/-tmontandon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tmontandon/)
 
-<!-- ### ***Stats***
+<!--
+ ### ***Stats***
 <br>
 
 <div align="center">
