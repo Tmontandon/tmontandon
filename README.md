@@ -14,6 +14,7 @@ Mike Meyers
 
 #### ***Contact Me***
 You can contact me on LinkedIn but im not huge in social media so I might not respond right away!
+
 [![Linkedin Badge](https://img.shields.io/badge/-tmontandon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tmontandon/)
 
 <!--
