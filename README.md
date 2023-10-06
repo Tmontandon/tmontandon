@@ -8,8 +8,8 @@ Im **Talor Montandon**,  I enjoy outdoor activities 🏂, finding solutions to p
 I have a little over a year of experience in software development, with much of my knowledge based around web development.
 
 #### ***Currently Reading 📕***
-> *CompTIA Network+ Certification Exam Guide* </br>
-Mike Meyers
+> *The Phoenix Project* </br>
+Kim, Behr, Spafford
 
 
 #### ***Contact Me***
