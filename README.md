@@ -9,7 +9,7 @@ I have a little over a year of experience in software development, with much of 
 
 #### ***Currently Reading 📕***
 > *The Unicorn Project* </br>
-Kim, Behr, Spafford
+Gene Kim
 
 
 #### ***Contact Me***
