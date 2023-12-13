@@ -3,12 +3,18 @@
 
 ### ***About Me***
 
-Im **Talor Montandon**,  I enjoy outdoor activities 🏂, finding solutions to problems 🤔, and growing to become my best self 🌱.
+I'm **Talor Montandon**.  I enjoy outdoor activities 🏂, solving new problems 🤔, and expanding my personal development 🌱.
 
-I have a little over a year of experience in software development, with much of my knowledge based around web development.
+I have over a year of experience in software development, with much of my knowledge based around web development.
+
+#### ***Currently Working On 💼***
+> Comptia Network+ Certification, </br>
+> TruGrocer Website Project, </br>
+> SIM Leadership Training, </br>
+> Financal Education </br>
 
 #### ***Currently Reading 📕***
-> *Rich Dad Poor Dad* </br>
+> *Rich Dad Poor Dad,* </br>
 Robert T. Kiyosaki
 
 
@@ -27,6 +33,7 @@ You can contact me on LinkedIn but im not huge in social media so I might not re
 </div>
 <br> -->
 
+<!--
 ### ***Skills***
 <br>
 <div align="center">
@@ -46,5 +53,4 @@ You can contact me on LinkedIn but im not huge in social media so I might not re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="Figma Logo" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="Slack Logo" title="Slack"/>
 </div>
-
-
+-->
