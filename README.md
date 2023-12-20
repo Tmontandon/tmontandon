@@ -11,7 +11,7 @@ I have over a year of experience in software development, with much of my knowle
 > Comptia Network+ Certification, </br>
 > TruGrocer Website Project, </br>
 > SIM Leadership Training, </br>
-> Financal Education </br>
+> Financial Education </br>
 
 #### ***Currently Reading 📕***
 > *Rich Dad Poor Dad,* </br>
