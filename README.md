@@ -14,8 +14,8 @@ I have over a year of experience in software development, with much of my knowle
 > Financial Education </br>
 
 #### ***Currently Reading 📕***
-> *Rich Dad Poor Dad,* </br>
-Robert T. Kiyosaki
+> *I Will Teach You To Be Rich,* </br>
+Ramit Sethi
 
 
 #### ***Contact Me***
