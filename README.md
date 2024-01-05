@@ -16,6 +16,8 @@ I have over a year of experience in software development, with much of my knowle
 #### ***Currently Reading 📕***
 > *The 4-Hour Workweek* </br>
 Timothy Ferriss
+> *The Richest Man in Babylon* </br>
+George Clason
 
 
 #### ***Contact Me***
