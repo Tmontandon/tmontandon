@@ -3,7 +3,7 @@
 
 ### ***About Me***
 
-I'm **Talor Montandon**.  I enjoy outdoor activities 🏂, solving new problems 🤔, and expanding my personal development 🌱.
+I'm **Talor Montandon**.  I enjoy outdoor activities 🏂, tackling new challenges 🤔, and expanding what I know 🌱.
 
 I have over a year of experience in software development, with much of my knowledge based around web development.
 
