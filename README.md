@@ -14,10 +14,9 @@ I have over a year of experience in software development, with much of my knowle
 > Financial Education </br>
 
 #### ***Currently Reading 📕***
-> *The 4-Hour Workweek* </br>
-Timothy Ferriss, </br>
-> *The Richest Man in Babylon* </br>
-George Clason
+> *$100M Offers* </br>
+Alex Hormozi, </br>
+
 
 
 #### ***Contact Me***
