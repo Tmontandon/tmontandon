@@ -14,8 +14,8 @@ I have over a year of experience in software development, with much of my knowle
 > Financial Education </br>
 
 #### ***Currently Reading 📕***
-> *$100M Offers* </br>
-Alex Hormozi, </br>
+> *SPIN Selling* </br>
+Niel Rackham, </br>
 
 
 
