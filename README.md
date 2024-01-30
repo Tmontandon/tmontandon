@@ -10,8 +10,7 @@ I have over a year of experience in software development, with much of my knowle
 #### ***Currently Working On 💼***
 > Comptia Network+ Certification, </br>
 > TruGrocer Website Project, </br>
-> SIM Leadership Training, </br>
-> Financial Education </br>
+> Personal Development </br>
 
 #### ***Currently Reading 📕***
 > *SPIN Selling* </br>
