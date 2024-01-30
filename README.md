@@ -10,6 +10,7 @@ I have over a year of experience in software development, with much of my knowle
 #### ***Currently Working On 💼***
 > Comptia Network+ Certification, </br>
 > TruGrocer Website Project, </br>
+> TruGrocer Windows 11 Project, </br>
 > Personal Development </br>
 
 #### ***Currently Reading 📕***
