@@ -14,7 +14,7 @@ I have over a year of experience in software development, with much of my knowle
 > Personal Development </br>
 
 #### ***Currently Reading 📕***
-> *100M Offers* </br>
+> *$100M Offers* </br>
 Alex Hormozi, </br>
 
 
