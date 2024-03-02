@@ -8,10 +8,8 @@ I'm **Talor Montandon**.  I enjoy outdoor activities 🏂, tackling new challeng
 I have over a year of experience in software development, with much of my knowledge based around web development.
 
 #### ***Currently Working On 💼***
-> Comptia Network+ Certification, </br>
-> TruGrocer Website Project, </br>
 > TruGrocer Windows 11 Project, </br>
-> Personal Development </br>
+> Digital Marketing </br>
 
 #### ***Currently Reading 📕***
 > *$100M Offers* </br>
